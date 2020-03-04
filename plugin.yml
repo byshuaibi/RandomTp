@@ -1,0 +1,6 @@
+name: RandomTp
+main: cc.mcwarzone.RandomTp
+version: 1.0
+author: laoliu
+commands:
+  crt:
